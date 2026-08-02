@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
