@@ -23,9 +23,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0067-add-binary) |
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0067-add-binary) |
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -35,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
