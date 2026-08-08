@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0258-add-digits) |
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
