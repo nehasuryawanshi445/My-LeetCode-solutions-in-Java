@@ -44,15 +44,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1510-stone-game-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -101,4 +104,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0258-add-digits) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
