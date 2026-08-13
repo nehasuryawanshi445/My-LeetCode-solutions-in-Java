@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
