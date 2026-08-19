@@ -6,7 +6,7 @@ class Solution {
 
         int[] b = {-1, -1};
 
-        // First position
+        
         while (s <= e) {
             int mid = (s + e) / 2;
 
