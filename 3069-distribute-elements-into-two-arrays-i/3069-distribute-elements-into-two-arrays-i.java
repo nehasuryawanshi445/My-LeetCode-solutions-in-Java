@@ -24,7 +24,7 @@ class Solution {
         }
        }
            System.arraycopy(arr , 0 , nums1 , 0 , x);
-           System.arraycopy(arr1 , 0, nums1, x, y);
+           System.arraycopy(arr1 , 0, nums1, x,y);
           
         
         return nums1;
