@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0041-first-missing-positive) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
