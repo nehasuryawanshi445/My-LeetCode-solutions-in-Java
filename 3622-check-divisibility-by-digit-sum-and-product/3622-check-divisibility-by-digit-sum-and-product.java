@@ -10,9 +10,7 @@ class Solution {
             n /= 10;
         }
         int total = sum + mul;
-        if(original % total == 0){
-            return true;
-        }
-        return false;
+        
+        return original % total == 0;
     }
 }
