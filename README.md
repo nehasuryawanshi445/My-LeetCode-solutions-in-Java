@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0067-add-binary) |
 | [1927-sum-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
