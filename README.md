@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0242-valid-anagram) |
 | [1927-sum-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
