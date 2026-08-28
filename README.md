@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2029-stone-game-ix) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2029-stone-game-ix) |
 ## Divide and Conquer
 |  |
@@ -181,4 +185,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
