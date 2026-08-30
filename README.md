@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2404-most-frequent-even-element](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2404-most-frequent-even-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1927-sum-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Counting
 |  |
 | ------- |
