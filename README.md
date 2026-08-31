@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2404-most-frequent-even-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
