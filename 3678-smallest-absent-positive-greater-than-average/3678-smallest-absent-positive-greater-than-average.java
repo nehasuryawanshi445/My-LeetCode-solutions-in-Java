@@ -1,6 +1,6 @@
 class Solution {
     public int smallestAbsent(int[] nums) {
-         int sum = 0;
+          int sum = 0;
         HashSet<Integer> set = new HashSet<>();
 
         for (int num : nums) {
@@ -10,12 +10,12 @@ class Solution {
 
         double avg = (double) sum / nums.length;
 
-        int x = Math.max(1, (int) avg + 1);
+        int i = 1;
 
-        while (set.contains(x)) {
-            x++;
+        while (i <= avg || set.contains(i)) {
+            i++;
         }
 
-        return x;
+        return i;
     }
 }
