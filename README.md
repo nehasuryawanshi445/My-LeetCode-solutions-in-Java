@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0455-assign-cookies) |
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0455-assign-cookies) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0455-assign-cookies) |
 | [1927-sum-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -245,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3483-unique-3-digit-even-numbers) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
