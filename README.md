@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0455-assign-cookies) |
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
+| [1480-running-sum-of-1d-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1480-running-sum-of-1d-array) |
 | [2029-stone-game-ix](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2404-most-frequent-even-element](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2404-most-frequent-even-element) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
