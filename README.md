@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1927-sum-game) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1510-stone-game-iv) |
 ## Game Theory
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -247,12 +250,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
