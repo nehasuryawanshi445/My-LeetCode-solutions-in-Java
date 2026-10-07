@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1929-concatenation-of-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2404-most-frequent-even-element](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2404-most-frequent-even-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -283,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
