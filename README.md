@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0645-set-mismatch) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
