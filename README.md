@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3483-unique-3-digit-even-numbers) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0645-set-mismatch) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
