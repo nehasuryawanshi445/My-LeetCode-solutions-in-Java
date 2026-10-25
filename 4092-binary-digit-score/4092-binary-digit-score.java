@@ -1,6 +1,13 @@
 class Solution {
     int binaryDigit(int x){
-        return Integer.bitCount(x);
+       int cnt = 0;
+
+        while (x > 0) {
+            cnt += x % 2;
+            x = x / 2;
+        }
+
+        return cnt;
 
     }
     public int calculateScore(int a, int b) {
