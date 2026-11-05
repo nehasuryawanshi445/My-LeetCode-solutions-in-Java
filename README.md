@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0645-set-mismatch) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1510-stone-game-iv) |
