@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0645-set-mismatch) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2029-stone-game-ix) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2404-most-frequent-even-element](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2404-most-frequent-even-element) |
@@ -332,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1672-richest-customer-wealth) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
