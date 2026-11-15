@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1672-richest-customer-wealth](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2029-stone-game-ix) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1510-stone-game-iv](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Game Theory
 |  |
 | ------- |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3904-smallest-stable-index-ii) |
