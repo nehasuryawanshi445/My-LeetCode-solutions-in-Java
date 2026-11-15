@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1672-richest-customer-wealth](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2029-stone-game-ix) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3886-sum-of-sortable-integers) |
