@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2351-first-letter-to-appear-twice) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0258-add-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
