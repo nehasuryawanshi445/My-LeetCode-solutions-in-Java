@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1672-richest-customer-wealth](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1929-concatenation-of-array) |
+| [1995-count-special-quadruplets](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1995-count-special-quadruplets) |
 | [2029-stone-game-ix](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0645-set-mismatch) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1995-count-special-quadruplets](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1995-count-special-quadruplets) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2367-number-of-arithmetic-triplets) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1534-count-good-triplets) |
+| [1995-count-special-quadruplets](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1995-count-special-quadruplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3483-unique-3-digit-even-numbers) |
