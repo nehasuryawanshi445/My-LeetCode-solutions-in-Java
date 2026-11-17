@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2404-most-frequent-even-element) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2404-most-frequent-even-element) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3886-sum-of-sortable-integers) |
 ## String
