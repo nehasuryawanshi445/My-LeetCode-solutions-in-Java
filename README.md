@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2404-most-frequent-even-element) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2351-first-letter-to-appear-twice) |
+| [2367-number-of-arithmetic-triplets](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2404-most-frequent-even-element) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2367-number-of-arithmetic-triplets](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2367-number-of-arithmetic-triplets) |
 ## String Matching
 |  |
 | ------- |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3886-sum-of-sortable-integers) |
