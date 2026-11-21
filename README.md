@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0412-fizz-buzz) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2169-count-operations-to-obtain-zero) |
