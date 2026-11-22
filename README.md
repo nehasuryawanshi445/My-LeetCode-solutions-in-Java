@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1672-richest-customer-wealth) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1929-concatenation-of-array) |
 | [1995-count-special-quadruplets](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1995-count-special-quadruplets) |
 | [2029-stone-game-ix](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2029-stone-game-ix) |
