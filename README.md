@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1441-build-an-array-with-stack-operations) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1510-stone-game-iv](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1927-sum-game) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3364-minimum-positive-sum-subarray) |
@@ -411,4 +414,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/0334-increasing-triplet-subsequence) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
