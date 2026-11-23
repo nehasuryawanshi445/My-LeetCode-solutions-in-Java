@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2029-stone-game-ix) |
 | [2169-count-operations-to-obtain-zero](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2169-count-operations-to-obtain-zero) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3871-count-commas-in-range-ii) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/1995-count-special-quadruplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3886-sum-of-sortable-integers) |
 ## Quicksort
