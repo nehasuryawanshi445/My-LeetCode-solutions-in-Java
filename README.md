@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2678-number-of-senior-citizens](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2418-sort-the-people) |
+| [2678-number-of-senior-citizens](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2678-number-of-senior-citizens) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nehasuryawanshi445/My-LeetCode-solutions-in-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
